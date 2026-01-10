@@ -4,6 +4,6 @@ Attendance tracker
 
 
 Authors
-- chikondi phiri
-- harrison malisawa
-- zakir motala 
+- Chikondi phiri
+- Harrison malisawa
+- Zakir motala 
